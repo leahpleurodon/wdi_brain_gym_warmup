@@ -14,7 +14,7 @@ You stand at a fork in the road. Next to each of the two forks, there stands a g
 
 #### Answer:
 *You ask one guard what path the other guard would say to go down. Then you take the opposite path.*
-
+:innocent: :triumph: :imp:
 
 ## Question Two
 A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
@@ -65,6 +65,7 @@ What is highest number of figs you can get to Capertown?
 ###### Step three:
 * *Finally, you travel the last 167 miles with one load of 1,000 figs and are left with 833 figs in Capertown.*
 
+:truck: :truck: :truck: :truck:
 
 ## Question Six
 
@@ -72,6 +73,8 @@ Question: A surgeon named Hal and a bus driver named Al are both in love with th
 
 ### Answer:
 *An apple a day keeps the doctor away.*
+
+:green_apple: :apple: :green_apple: :apple: :green_apple: :apple: :green_apple:
 
 
 ## Question Seven
@@ -82,3 +85,5 @@ Why does she kill her sister?
 
 ### Answer:
 *So she will have a chance to meet the man again.*
+
+:dizzy_face: :gun: :imp: :scream:
