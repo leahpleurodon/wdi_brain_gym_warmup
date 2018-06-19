@@ -14,6 +14,7 @@ You stand at a fork in the road. Next to each of the two forks, there stands a g
 
 #### Answer:
 *You ask one guard what path the other guard would say to go down. Then you take the opposite path.*
+
 :innocent: :triumph: :imp:
 
 ## Question Two
